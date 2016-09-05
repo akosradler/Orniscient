@@ -1,3 +1,6 @@
+## PLEASE NOTE:
+This branch will only compile against sebastianburckhardt's custom branch of Orleans 1.3 + geo protocol.  
+
 # Orniscient
 Orniscient provides an interface for visualising user grains in an Orleans cluster or meta-cluster. Grains can be filtered based on pre-defined public properties, or identifiers such as GUIDs or integer keys, in addition to concrete type definitions.
 
